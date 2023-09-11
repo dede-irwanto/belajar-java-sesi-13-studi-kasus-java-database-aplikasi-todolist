@@ -1,1 +1,2 @@
-# belajar-java-sesi-13-studi-kasus-java-database-aplikasi-todolist
+# Belajar Java Sesi 13
+Studi Kasus Java Database Aplikasi Todolist
